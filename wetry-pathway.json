@@ -1,0 +1,11 @@
+{
+  "title": "WeTry",
+  "description": "WeTry workshops",
+  "courses": [
+    {
+      "course_id": "kubeless",
+      "title": "Install and use Kubeless",
+      "description": "Install a prod like Kubernetes and use it as serverless"
+    }
+  ]
+}

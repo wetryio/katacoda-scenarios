@@ -5,8 +5,8 @@
     "details": {
         "steps": [
             {
-                "title": "Quiz",
-                "text": "step1.md"
+                "title": "Installation de Rancher",
+                "text": "installation-rancher.md"
             }
         ],
         "intro": {
@@ -19,6 +19,10 @@
     },
     "files": [],
     "environment": {
+        "showide": true,
+        "ide": "ssh host01 '/opt/start-vscode.sh'",
+        "idePort": 23000,
+
         "uilayout": "terminal"
     },
     "backend": {
